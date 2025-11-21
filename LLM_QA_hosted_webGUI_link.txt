@@ -1,4 +1,4 @@
 Name: Ayodeji
 Matric number: 22CG031818
-Live URL of hosted application: [Link to Render/PythonAnywhere/etc]
-GitHub repository link: [Link to your GitHub Repo]
+Live URL of hosted application: https://csc415-ai-chatbot.onrender.com/
+GitHub repository link: https://github.com/bilegyr06/LLM_QA_Project_22CG031818
